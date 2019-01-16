@@ -1,0 +1,8 @@
+pt-BR:
+  hyrax:
+    icons:
+      scenario:     'fa fa-file-text-o'
+    select_type:
+      scenario:
+        description:        "Scenario trabalhos"
+        name:               "Scenario"

@@ -1,0 +1,10 @@
+zh:
+  hyrax:
+    icons:
+      scenario:     'fa fa-file-text-o'
+    select_type:
+      scenario:
+        # TODO: translate `human_name` into Chinese
+        description:        "Scenario 作品"
+        name:               "Scenario"
+        # TODO: translate `human_name` into Chinese

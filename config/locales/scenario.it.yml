@@ -1,0 +1,8 @@
+it:
+  hyrax:
+    icons:
+      scenario:     'fa fa-file-text-o'
+    select_type:
+      scenario:
+        description:        "Scenario opere"
+        name:               "Scenario"

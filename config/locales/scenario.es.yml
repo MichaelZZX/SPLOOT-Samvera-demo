@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      scenario:     'fa fa-file-text-o'
+    select_type:
+      scenario:
+        # TODO: translate `human_name` into Spanish
+        description:        "Scenario trabajos"
+        name:               "Scenario"
+        # TODO: translate `human_name` into Spanish
